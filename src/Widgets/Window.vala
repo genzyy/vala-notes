@@ -1,4 +1,4 @@
-public class Jarvis.Window : Gtk.ApplicationWindow {
+public class Notes.Window : Gtk.ApplicationWindow {
 
 	public Window (Application app) {
 		Object (
